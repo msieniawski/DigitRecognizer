@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DigitRecognizer</string>
+    <string name="take_picture">Scan</string>
+</resources>
